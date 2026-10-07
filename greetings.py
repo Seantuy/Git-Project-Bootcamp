@@ -27,4 +27,6 @@ if __name__ == "__main__":
     print(f"Registered as student #{student.student_id}")
     print(f"Confirmation sent to {student.email}")
     print(student.enroll("MSc 1 Data"))
+
+    #
     
