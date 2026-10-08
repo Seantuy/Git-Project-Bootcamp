@@ -30,10 +30,4 @@ if __name__ == "__main__":
     print(f"Registered as student #{student.student_id}")
     print(f"Confirmation sent to {student.email}")
     print(student.enroll("MSc 1 Data"))
-<<<<<<< HEAD
     print(student.farewell())
-=======
-
-    #
-    
->>>>>>> 44866a2af9a420c85c58a2411701df96518d70cd
